@@ -1,2 +1,2 @@
 # node-cron
-npm install
+#type npm install on your command line
